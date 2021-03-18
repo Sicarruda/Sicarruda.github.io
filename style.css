@@ -1,0 +1,24 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #add8e6;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+#ola {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+#lazanha {
+  font-size: x-large;
+}
+#programar {
+  font-size: xx-small;
+}
+#martini {
+  font-size: large;
+}
+#aprender {
+  font-size: xx-large;
+}
