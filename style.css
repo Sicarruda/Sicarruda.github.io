@@ -1,24 +1,38 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #add8e6;
+  background-color: #bacfd6;
+  margin: 70px;
 }
 h1 {
   font-family: "Times New Roman", Times, serif;
 }
-#ola {
+.ola {
   font-size: large;
-  font-style: italic;
+  margin-right: 15px;
+  padding-left: 25px;
+}
+.image {
+  border-radius: 100%;
+  width: 230px;
+  height: 230px;
+  float: left;
+  overflow: hidden;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+.titulo {
   text-align: center;
 }
-#lazanha {
-  font-size: x-large;
+span{
+  font-weight:bold;
 }
-#programar {
-  font-size: xx-small;
+
+li{
+  list-style-type:circle ;
 }
-#martini {
-  font-size: large;
+#lazanha, #martini{
+  font-style: italic;
 }
-#aprender {
-  font-size: xx-large;
+ul{
+  margin-top: 50px;
 }
