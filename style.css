@@ -1,6 +1,6 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #bacfd6;
+  background: url(img/background.png) ;
   margin: 70px;
 }
 h1 {
